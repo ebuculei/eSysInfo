@@ -9,6 +9,7 @@ Features:
 
 Requirements:
 - .NET Framework 4.5.1 or newer
-- Windows 7, 10 or 11
+- Windows 7 or newer
+- Windows Server 2016 or newer 
 
-To build the code yourself, open eSysInfo.sln in Visual Studio 2017, 2019, or 2022.
+To build the application, open eSysInfo.sln in Visual Studio 2017, 2019, or 2022.
