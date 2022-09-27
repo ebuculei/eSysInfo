@@ -12,4 +12,4 @@ Requirements:
 - Windows 7 or newer
 - Windows Server 2016 or newer 
 
-To build the application, open eSysInfo.sln in Visual Studio 2017, 2019, or 2022.
+You can simply download the <b>eSysInfo.exe</b> and use it, or open <b>eSysInfo.sln</b> in Visual Studio 2017, 2019, or 2022 to build it.
